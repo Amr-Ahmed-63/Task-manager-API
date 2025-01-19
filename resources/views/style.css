@@ -1,0 +1,20 @@
+*{
+ margin: 0;
+ padding: 0;
+}
+body{
+    background-color: #999;
+}
+nav{
+    background-color: black;
+    height: 60px;
+    width: 100% ;
+    margin-left: 250px;
+    position: fixed;
+    top: 0;
+    color: white;
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+}
